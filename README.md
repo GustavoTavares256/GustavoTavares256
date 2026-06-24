@@ -4,7 +4,7 @@
 
 # Gustavo Tavares
 
-### 🚀 Desenvolvedor Full Stack em Formação
+### 🚀 Desenvolvedor Full Stack
 
 Desenvolvimento Web • Back-end • QA • IA • Sistemas SaaS
 
@@ -14,9 +14,9 @@ Desenvolvimento Web • Back-end • QA • IA • Sistemas SaaS
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou Gustavo Tavares, estudante do Ensino Médio e Desenvolvedor Full Stack em formação.
+Olá! Sou Gustavo Tavares, estudante do Ensino Médio e Desenvolvedor Full Stack.
 
-Atualmente atuo com desenvolvimento web, QA, manutenção de sistemas corporativos e soluções utilizando Inteligência Artificial.
+Atualmente atuo com desenvolvimento full-stack mas com familiaridade com back-end, QA, manutenção de sistemas corporativos e soluções utilizando Inteligência Artificial.
 
 Tenho experiência prática participando da evolução de sistemas ERP, CRM, Agendamentos, Ordens de Serviço, Controle Financeiro, Estoque, Landing Pages, Chatbots e aplicações voltadas para negócios.
 
@@ -28,8 +28,7 @@ Meu principal objetivo é me tornar um Desenvolvedor Full Stack especializado em
 
 * HTML5
 * CSS3
-* JavaScript (ES6+)
-* TypeScript
+* JavaScript
 * Node.js
 * Express.js
 * Fastify
@@ -42,6 +41,7 @@ Meu principal objetivo é me tornar um Desenvolvedor Full Stack especializado em
 * Cypress
 * QA/Testes Funcionais
 * Inteligência Artificial aplicada ao desenvolvimento
+* Estudante de java, POO
 
 ---
 
