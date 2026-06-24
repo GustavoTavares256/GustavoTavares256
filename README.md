@@ -185,7 +185,7 @@ Busco oportunidades como:
 
 📧 [gustavotmoura123@gmail.com](mailto:gustavotmoura123@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/gustavo-tavares497821
+💼 LinkedIn:https://www.linkedin.com/in/gustavo-tavares-dev-qa/
 
 🐙 GitHub: github.com/GustavoTavares256
 
