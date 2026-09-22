@@ -2,7 +2,7 @@
 
 <img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp1aXF0bWRrMDcxNmN6bG40dDZreWI3dWgxaWYwbnY5ejh1MDV3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-# Gustavo Tavares
+# Gustavo Tavares Moura
 
 ### 🚀 Desenvolvedor Full Stack
 
