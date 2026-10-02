@@ -6,7 +6,7 @@
 
 ### 🚀 Desenvolvedor Full Stack
 
-Desenvolvimento • Back-end • QA • IA • 
+Desenvolvimento • Back-end • QA  
 
 </div>
 
