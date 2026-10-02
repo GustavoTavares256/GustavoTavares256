@@ -6,7 +6,7 @@
 
 ### 🚀 Desenvolvedor Full Stack
 
-Desenvolvimento Web • Back-end • QA • IA • Sistemas SaaS
+Desenvolvimento • Back-end • QA • IA • 
 
 </div>
 
@@ -14,7 +14,7 @@ Desenvolvimento Web • Back-end • QA • IA • Sistemas SaaS
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou Gustavo Tavares, estudante do Ensino Médio e Desenvolvedor Full Stack.
+Olá! Sou Gustavo Tavares, Desenvolvedor Full Stack mas com familiaridade com backend.
 
 Atualmente atuo com desenvolvimento full-stack mas com familiaridade com back-end, QA, manutenção de sistemas corporativos e soluções utilizando Inteligência Artificial.
 
@@ -25,23 +25,48 @@ Meu principal objetivo é me tornar um Desenvolvedor Full Stack especializado em
 ---
 
 ## 🚀 Atualmente Trabalho Com
+Back-end:
+Java
+Spring Boot
+APIs REST
+MySQL
+PostgreSQL
+Prisma ORM
 
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
-* Express.js
-* Fastify
-* React
-* MySQL
-* Prisma ORM
-* Git & GitHub
-* APIs REST
-* Postman
-* Cypress
-* QA/Testes Funcionais
-* Inteligência Artificial aplicada ao desenvolvimento
-* Estudante de java, POO
+🎨 Front-end
+JavaScript
+React
+HTML5
+CSS3
+
+🧪 QA & Testes
+QA / Testes Funcionais
+Cypress
+Postman
+Testes de API
+Testes End-to-End
+Testes Junit Mockito 
+
+🛠️ Ferramentas
+Git
+GitHub
+Docker
+Docker Compose
+Maven
+Spring boot
+
+🤖 Inteligência Artificial
+IA aplicada ao desenvolvimento
+Integração com LLMs
+Automação utilizando IA
+Desenvolvimento assistido por IA
+
+📚 Em aprofundamento
+Java
+Programação Orientada a Objetos (POO)
+Spring Boot
+SQL
+Arquitetura de Back-end
 
 ---
 
