@@ -133,20 +133,41 @@ Arquitetura de Back-end
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos Atuais
 
-### 🏢 ERP SaaS
+### 🔐 Cadastro de Usuários
 
-Sistema de gestão empresarial desenvolvido com:
+API RESTful desenvolvida para estudo e prática de **Java e Spring Boot**, com persistência de dados.
+
+* Java 17
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* H2
+* Maven
+  
+---
+
+### 🏢 CodXis ERP
+
+Sistema de gestão empresarial desenvolvido com arquitetura separada entre **API e Web**.
+
+**Backend — `codxis-erp-api-1`**
 
 * Node.js
 * Fastify
 * TypeScript
 * Prisma
 * MySQL
-* JWT
+* API REST
 
-Módulos:
+**Frontend — `codxis-erp-web`**
+
+* React
+* TypeScript
+* Interface web para gestão do sistema
+
+**Principais módulos:**
 
 * Produtos
 * Estoque
@@ -157,28 +178,61 @@ Módulos:
 
 ---
 
-### 🎮 ArenaStorm Bot
+### 🤖 Gerente da CodXis
 
-Chatbot para arena gamer com:
+Bot de gestão e acompanhamento de **check-in e check-out de colaboradores**, desenvolvido para automatizar rotinas internas.
 
 * Node.js
-* Express
-* MySQL
-* Painel Administrativo
-* Sistema de Reservas
-* API REST
+* TypeScript
+* PostgreSQL
+* WhatsApp
+* API/Integrações
+* Automação
+* Inteligência Artificial aplicada
+
+**Principais funcionalidades:**
+
+* Registro de entrada e saída
+* Controle de tarefas e aderência
+* Relatórios
+* Exportação de dados
+* Sugestões automatizadas
+* Alertas para gestão
+* Dashboard
 
 ---
 
-### ⚽ Figurinhas Copa 2026
+### 🌐 Extensão CodXis
 
-E-commerce Full Stack com:
+Extensão para navegador desenvolvida para complementar o **CodXis Web**, adicionando recursos e informações diretamente à interface do sistema.
 
-* Front-end Web
-* Node.js
-* MySQL
-* Painel Administrativo
-* Gestão de Pedidos
+**Tecnologias:**
+
+* JavaScript
+* Chrome Extensions
+* APIs REST
+* Manipulação do DOM
+
+**Funcionalidades:**
+
+* Dashboard de metas e resultados
+* Indicadores de desempenho
+* Integração com dados do sistema
+* Interface integrada ao CodXis Web
+
+---
+
+
+
+**Funcionalidades:**
+
+* Cadastro de usuários
+* Consulta
+* Atualização
+* Exclusão
+* Validação de dados
+* Persistência com JPA/Hibernate
+
 
 ---
 
@@ -186,6 +240,7 @@ E-commerce Full Stack com:
 
 * Arquitetura de Software
 * Docker
+* Spring boot
 * Desenvolvimento Back-end Avançado
 * APIs REST
 * Banco de Dados
