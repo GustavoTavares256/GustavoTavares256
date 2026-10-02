@@ -33,13 +33,13 @@ MySQL
 PostgreSQL
 Prisma ORM
 
-🎨 Front-end
+🎨 Front-end:
 JavaScript
 React
 HTML5
 CSS3
 
-🧪 QA & Testes
+🧪 QA & Testes:
 QA / Testes Funcionais
 Cypress
 Postman
@@ -47,7 +47,7 @@ Testes de API
 Testes End-to-End
 Testes Junit Mockito 
 
-🛠️ Ferramentas
+🛠️ Ferramentas:
 Git
 GitHub
 Docker
@@ -55,13 +55,13 @@ Docker Compose
 Maven
 Spring boot
 
-🤖 Inteligência Artificial
+🤖 Inteligência Artificial:
 IA aplicada ao desenvolvimento
 Integração com LLMs
 Automação utilizando IA
 Desenvolvimento assistido por IA
 
-📚 Em aprofundamento
+📚 Em aprofundamento:
 Java
 Programação Orientada a Objetos (POO)
 Spring Boot
